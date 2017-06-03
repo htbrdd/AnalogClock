@@ -1,5 +1,5 @@
-Filename: C:\Users\kilian\Dropbox\Personal\Hobbies\Clock\Analog\Minute.MTR
-#2015-08-15 17:15:15#
+Filename: G:\AnalogClock\MeterFaces\Minute.MTR
+#2017-05-25 19:45:13#
 Plate width: 58.56
 Plate height: 58.56
 Bottom to bearing: 11.56
@@ -34,14 +34,40 @@ Major ticmarks every how often: 1
 Labels every how many ticmarks: 1
 Linearity exponent: 1
 Draw graphic Y/N:N
-Graphic filename: 
+Graphic filename:
 Left to graphic: 1
-Bottom to graphic: 1
-Graphic width: 1
-Graphic height: 1
+Bottom to graphic: 2
+Graphic width: 2
+Graphic height: 2
 Arc width: 1
 Messages: 0
 Texts: 0
 Highlights: 0
 Plate background: 16777215
+Scale 1 - deleted tics: 0
+Scale 2 - deleted tics: 0
+Scale 3 - deleted tics: 0
+Scale 4 - deleted tics: 0
+Scale 1 - deleted labels: 0
+Scale 2 - deleted labels: 0
+Scale 3 - deleted labels: 0
+Scale 4 - deleted labels: 0
+Relative font sizes:
+Scale 1: 1
+Aspect ratio: .75
+Number of correction points: 7
+Pair #1: 0 \ 0
+Pair #2: .15 \ .15
+Pair #3: .3 \ .3
+Pair #4: .5 \ .5
+Pair #5: .7 \ .7
+Pair #6: .85 \ .85
+Pair #7: 1 \ 1
+Print ticmarks and arcs:
+Scale 1: 0
+Deflection stops:
+Scale 1: 1
+Mirror: N
+Deflection starts:
+Scale 1: 0
 
